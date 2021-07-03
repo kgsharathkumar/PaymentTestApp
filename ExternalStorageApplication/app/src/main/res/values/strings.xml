@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">ExternalStorageApplication</string>
-    <string name="btnSave">Save</string>
-    <string name="btnRead">Read</string>
-    <string name="btnInfo">Info</string>
-</resources>
